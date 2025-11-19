@@ -8,7 +8,7 @@ def greet_user(name):
 
 def main():
     
-    user_name = input("Enter your name: ")
+    user_name = input("Enter your first name: ")
     greet_user(user_name)
 
 if __name__ == "__main__":
