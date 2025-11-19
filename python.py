@@ -4,7 +4,7 @@ import random
 def greet_user(name):
     now = datetime.datetime.now()
     number = random.randint(1, 100)
-    print(f"Hello, {name}! Welcome to Python. Your ID number is: {number} and your login time in : {now}")
+    print(f"Hello, {name}! Welcome to Git Demo. Your ID number is: {number} and your login time in : {now}")
 
 def main():
     
